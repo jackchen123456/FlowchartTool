@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/rect.png</file>
+        <file>images/arrow.png</file>
+        <file>images/diamond.png</file>
+        <file>images/ellipse.png</file>
+        <file>images/hexagon.png</file>
+        <file>images/line.png</file>
+        <file>images/pentagon.png</file>
+        <file>images/rotate.png</file>
+        <file>images/bold.png</file>
+        <file>images/center.png</file>
+        <file>images/italic.png</file>
+        <file>images/left.png</file>
+        <file>images/right.png</file>
+        <file>images/underline.png</file>
+        <file>images/zoom-in.png</file>
+        <file>images/zoom-out.png</file>
+        <file>images/zoom-reset.png</file>
+        <file>images/move-bottom.png</file>
+        <file>images/move-down.png</file>
+        <file>images/move-top.png</file>
+        <file>images/move-up.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/save.png</file>
+        <file>images/save-as.png</file>
+        <file>images/undo.png</file>
+        <file>images/redo.png</file>
+        <file>images/delete.png</file>
+        <file>images/export-png.png</file>
+        <file>images/export-svg.png</file>
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/paste.png</file>
+        <file>images/selectall.png</file>
+    </qresource>
+</RCC>
